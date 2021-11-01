@@ -35,7 +35,7 @@ const Navbars = () => {
     <Navbar bg="dark" variant="dark">
     <Container>
         
-    <Navbar.Brand ><img className="Logo" src="https://xn--puolcomer-r3ah.es/wp-content/uploads/2020/10/Download-Marketplace-PNG-Clipart-300x175.png" alt="Logo" /></Navbar.Brand>
+    <Navbar.Brand ><img className="Logo" src="https://www.kindpng.com/picc/m/718-7183640_facebook-marketplace-png-icon-transparent-png.png" alt="Logo" /></Navbar.Brand>
     <Nav className="me-auto">
        <Nav.Link ><Link to='/'>Home</Link></Nav.Link> 
      <Nav.Link ><Link to='/features' >Features</Link></Nav.Link> 
